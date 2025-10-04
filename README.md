@@ -1,17 +1,18 @@
-# ASK
+# ASK & FSK
 # Aim
 Write a simple Python program for the modulation and demodulation of ASK and FSK.
 # Tools required
+PC with Google colab
 # Program
 ```
-Attach the program
+
 ```
 # Output Waveform
 ```
-Attach the output waveform
+
 ```
 # Results
 ```
-Attach the output waveform
+Thus,the modulation and demodulation of ASK and FSK was done and the output is verified using google colab.
 ```
 # Hardware experiment output waveform.
