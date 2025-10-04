@@ -133,7 +133,7 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform
-<img width="975" height="631" alt="image" src="https://github.com/user-attachments/assets/58c1b8e5-020f-4263-8f6e-dcbf69f17875" />
+<img width="1190" height="790" alt="image" src="https://github.com/user-attachments/assets/ee406de3-48b9-4bbc-9101-1dd4e96389dd" />
 
 
 <img width="805" height="630" alt="image" src="https://github.com/user-attachments/assets/d42beb37-9fd1-49ab-a8d7-fd3736405a59" />
