@@ -134,10 +134,11 @@ plt.show()
 ```
 # Output Waveform
 ```
+<img width="1135" height="736" alt="image" src="https://github.com/user-attachments/assets/33b6df4f-9ce5-4f51-bdf3-588a6a86cb77" />
 
+<img width="805" height="630" alt="image" src="https://github.com/user-attachments/assets/d42beb37-9fd1-49ab-a8d7-fd3736405a59" />
 ```
 # Results
 ```
 Thus,the modulation and demodulation of ASK and FSK was done and the output is verified using google colab.
 ```
-# Hardware experiment output waveform.
